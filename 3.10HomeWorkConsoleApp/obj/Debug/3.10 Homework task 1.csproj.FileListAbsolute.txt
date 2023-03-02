@@ -1,0 +1,8 @@
+F:\Users\lordp\source\repos\3.10HomeWorkConsoleApp\3.10HomeWorkConsoleApp\bin\Debug\3.10HomeWorkConsoleApp.exe.config
+F:\Users\lordp\source\repos\3.10HomeWorkConsoleApp\3.10HomeWorkConsoleApp\bin\Debug\3.10HomeWorkConsoleApp.exe
+F:\Users\lordp\source\repos\3.10HomeWorkConsoleApp\3.10HomeWorkConsoleApp\bin\Debug\3.10HomeWorkConsoleApp.pdb
+F:\Users\lordp\source\repos\3.10HomeWorkConsoleApp\3.10HomeWorkConsoleApp\obj\Debug\3.10 Homework task 1.csproj.AssemblyReference.cache
+F:\Users\lordp\source\repos\3.10HomeWorkConsoleApp\3.10HomeWorkConsoleApp\obj\Debug\3.10 Homework task 1.csproj.SuggestedBindingRedirects.cache
+F:\Users\lordp\source\repos\3.10HomeWorkConsoleApp\3.10HomeWorkConsoleApp\obj\Debug\3.10 Homework task 1.csproj.CoreCompileInputs.cache
+F:\Users\lordp\source\repos\3.10HomeWorkConsoleApp\3.10HomeWorkConsoleApp\obj\Debug\3.10HomeWorkConsoleApp.exe
+F:\Users\lordp\source\repos\3.10HomeWorkConsoleApp\3.10HomeWorkConsoleApp\obj\Debug\3.10HomeWorkConsoleApp.pdb
